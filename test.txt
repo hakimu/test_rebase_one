@@ -3,3 +3,4 @@ This is the second commit on the master branch.
 This is the third commit on the master branch.
 I just created the 'branch branch_2_off_3rd_commit_on_master' branch.  This is the 2nd branch.  Will try and put commits before the first branch.
 This is the second commit of branch_2.
+This is the first line of 'branch_1_off_2nd_commit_on_master'
