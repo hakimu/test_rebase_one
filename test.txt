@@ -1,1 +1,2 @@
 This will be the initial commit on the master branch.
+This is the second commit on the master branch.
