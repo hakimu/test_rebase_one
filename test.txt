@@ -8,3 +8,5 @@ This is the second line of 'branch_1_off_2nd_commit_on_master'.  I will try and 
 
 'a_branch' commit 1...This is the first commit on a_branch
 'a_branch' commit 2...This is the second commit of a_branch
+
+'b_branch' commit 1...This is the first commit on 'b_branch'
