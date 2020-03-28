@@ -5,3 +5,5 @@ I just created the 'branch branch_2_off_3rd_commit_on_master' branch.  This is t
 This is the second commit of branch_2.
 This is the first line of 'branch_1_off_2nd_commit_on_master'
 This is the second line of 'branch_1_off_2nd_commit_on_master'.  I will try and put branch_2 above both branch_1 commits.
+
+'a_branch' commit 1...This is the first commit on a_branch
